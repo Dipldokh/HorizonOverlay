@@ -25,3 +25,13 @@ When the wheel loses traction it will glow pink.
 When the wheel is in a body of water, it will glow blue.
 Outer glow effects are positioned to not interfere with eachother, so, if you are sliding in a puddle you can see both pink and blue effects.
 After some testing, I realized that this only counts puddles and ocean, Wet road on a rainy day will display no effect, so this stat is not particularly useful.
+
+-----
+
+## Power and RPM graph
+
+An overlay that shows graphs for Power and RPM.
+I lack tuning knowledge to get any use for this, but it looks curious.
+Maybe this might be useful for someone.
+
+![FH5 Power RPM](https://user-images.githubusercontent.com/45932893/192176183-0b55a3ac-995d-4456-be09-8823c8b5171a.png)
