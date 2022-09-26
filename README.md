@@ -4,6 +4,7 @@ Overlay for Horizon 5 for use with SimHub
 ## Wheel info Features
 The overlay comes as a miniature scheme of car's wheels and drivetrain.
 
+![FH5 Wheel Info](https://user-images.githubusercontent.com/45932893/192173778-b441623b-9390-4954-a764-ab959431324a.png)
 
 ### Drive type
 Only active axles are displayed, so it can be seen at a glance if the car is FWD, AWD or RWD.
